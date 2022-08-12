@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jim Hodapp Coaching"
+permalink: /
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Jim-Hodapp-Coaching/jimhodappcoaching.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
